@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgba(0, 139, 127, 0.937);
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    
+}
+.menu div{
+    padding-left: 15px;
+    font-size: 40px; 
+}
